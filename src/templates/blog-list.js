@@ -25,7 +25,7 @@ export default function BlogListTemplate({ data, pageContext }) {
         ))}
       </main>
       <div id={styles.pageLinks}>
-        {pageContext.currentPage > 1 && (
+      {pageContext.currentPage > 1 && (
           <Link to={previousPage}>
             Previous Page
           </Link>
