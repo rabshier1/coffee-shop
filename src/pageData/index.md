@@ -1,5 +1,5 @@
 ---
 contentKey: indexPage
-tagline: The kitchen
+tagline: COME GET SOME COFFEE!
 heroImage: /img/im3rd-media-dn5vihvxloc-unsplash.jpg
 ---
